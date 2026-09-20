@@ -24,5 +24,5 @@ O programa solicita ao usuário o **tipo do imóvel** e o **consumo mensal de á
 1. Abra a pasta do projeto no Visual Studio Code.
 2. Abra o arquivo `app.py`.
 3. Clique no botão "Executar" localizado no canto superior direito do Visual Studio Code.
-4. Digite o tipo do imóvel e o consumo mensal de água em m³ quando solicitado.
+4. Digite o tipo do imóvel (comercial, apartamento ou casa) e o consumo mensal de água em m³ quando solicitado.
 5. O programa classificará o perfil de consumo do imóvel e exibirá um alerta educativo. 

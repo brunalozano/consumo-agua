@@ -1,6 +1,6 @@
 # Sistema de Classificação de Consumo de Água
 # Entrada
-imovel = input("Digite o tipo do imóvel: ")
+imovel = input("Digite o tipo do imóvel (comercial, apartamento ou casa): ")
 consumo_mensal_agua = float(input("Digite o consumo mensal de água em m³: "))
 
 print()
